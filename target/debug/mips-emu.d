@@ -1,0 +1,1 @@
+/home/boron/Documents/projects/mips-emu/target/debug/mips-emu: /home/boron/Documents/projects/mips-emu/src/cpu.rs /home/boron/Documents/projects/mips-emu/src/lib.rs /home/boron/Documents/projects/mips-emu/src/main.rs /home/boron/Documents/projects/mips-emu/src/memory.rs
